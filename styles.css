@@ -10,11 +10,11 @@ html {
     padding: 0;
 }
 
-body {
+main {
     background-color: hsl(212, 45%, 89%);
-    height: 100vh;
-    display: flex;
     font-family: 'Outfit', sans-serif;
+    display: flex;
+    height: 100vh;
 }
 
 .container {
